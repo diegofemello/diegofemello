@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://wakatime.com/share/@diegofemello/285dad59-e166-4c37-b79e-5042529ff430.svg" ><img width="700" src="https://wakatime.com/share/@diegofemello/285dad59-e166-4c37-b79e-5042529ff430.svg"></a>
-</p>
-
-  ##
-
 <div align="center">
   <a href="https://github.com/diegofemello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegofemello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
