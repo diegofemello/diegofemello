@@ -37,7 +37,6 @@
   <a href="https://www.linkedin.com/in/diegofmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<img align="center" alt="Snake" width="100%" src="https://github.com/diegofemello/diegofemello/blob/output/github-contribution-grid-snake-dark.svg">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diegofemello/diegofemello/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/diegofemello/diegofemello/blob/output/github-snake.svg" />
