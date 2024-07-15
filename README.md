@@ -38,4 +38,8 @@
 </div>
 
 <img align="center" alt="Snake" width="100%" src="https://github.com/diegofemello/diegofemello/blob/output/github-contribution-grid-snake-dark.svg">
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diegofemello/diegofemello/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diegofemello/diegofemello/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/diegofemello/diegofemello/blob/output/github-snake.svg" />
+</picture>
